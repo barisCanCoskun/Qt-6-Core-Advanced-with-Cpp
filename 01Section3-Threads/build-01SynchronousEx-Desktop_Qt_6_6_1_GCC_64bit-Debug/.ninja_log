@@ -1,0 +1,26 @@
+# ninja log v5
+1	313	1704789057121683373	01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+1	313	1704789057121683373	01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+1	313	1704789057121683373	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+1	313	1704789057121683373	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+314	431	1704789057293682913	CMakeFiles/01SynchronousEx.dir/01SynchronousEx_autogen/mocs_compilation.cpp.o	1ab27f34c20b3c36
+313	4953	1704789061813670891	CMakeFiles/01SynchronousEx.dir/main.cpp.o	3038befaf0673640
+4955	5380	1704789062237669766	01SynchronousEx	4dfa69c39a021f43
+3	35	1704789203545316929	01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+3	35	1704789203545316929	01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+3	35	1704789203545316929	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+3	35	1704789203545316929	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+36	5071	1704789208581305096	CMakeFiles/01SynchronousEx.dir/main.cpp.o	3038befaf0673640
+5072	5370	1704789208877304402	01SynchronousEx	4dfa69c39a021f43
+4	49	1704789388788908932	01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+4	49	1704789388788908932	01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+4	49	1704789388788908932	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+4	49	1704789388788908932	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+50	4966	1704789393700898788	CMakeFiles/01SynchronousEx.dir/main.cpp.o	3038befaf0673640
+4966	5311	1704789394044898079	01SynchronousEx	4dfa69c39a021f43
+2	24	1704789460924762939	01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+2	24	1704789460924762939	01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+2	24	1704789460924762939	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/timestamp	d9952dcfef1d16e0
+2	24	1704789460924762939	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-01SynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/01SynchronousEx_autogen/mocs_compilation.cpp	d9952dcfef1d16e0
+24	3770	1704789464672755519	CMakeFiles/01SynchronousEx.dir/main.cpp.o	3038befaf0673640
+3770	3997	1704789464896755075	01SynchronousEx	4dfa69c39a021f43

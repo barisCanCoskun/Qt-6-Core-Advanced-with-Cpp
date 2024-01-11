@@ -1,0 +1,14 @@
+# ninja log v5
+0	501	1704803380360808649	02AsynchronousEx_autogen/timestamp	87277fb11ece6f78
+0	501	1704803380360808649	02AsynchronousEx_autogen/mocs_compilation.cpp	87277fb11ece6f78
+0	501	1704803380360808649	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-02AsynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/02AsynchronousEx_autogen/timestamp	87277fb11ece6f78
+0	501	1704803380360808649	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-02AsynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/02AsynchronousEx_autogen/mocs_compilation.cpp	87277fb11ece6f78
+503	634	1704803380504808146	CMakeFiles/02AsynchronousEx.dir/02AsynchronousEx_autogen/mocs_compilation.cpp.o	82cd9f5eff227bd5
+502	6906	1704803386776786261	CMakeFiles/02AsynchronousEx.dir/main.cpp.o	1b4ec994b5b54101
+6908	7794	1704803387656783191	02AsynchronousEx	3e5ce8003638aa11
+3	26	1704962047992835548	02AsynchronousEx_autogen/timestamp	87277fb11ece6f78
+3	26	1704962047992835548	02AsynchronousEx_autogen/mocs_compilation.cpp	87277fb11ece6f78
+3	26	1704962047992835548	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-02AsynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/02AsynchronousEx_autogen/timestamp	87277fb11ece6f78
+3	26	1704962047992835548	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-02AsynchronousEx-Desktop_Qt_6_6_1_GCC_64bit-Debug/02AsynchronousEx_autogen/mocs_compilation.cpp	87277fb11ece6f78
+27	3674	1704962051640807912	CMakeFiles/02AsynchronousEx.dir/main.cpp.o	1b4ec994b5b54101
+3675	3899	1704962051864806218	02AsynchronousEx	3e5ce8003638aa11

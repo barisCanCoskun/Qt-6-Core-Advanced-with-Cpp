@@ -1,0 +1,22 @@
+# ninja log v5
+0	29	1704999318638269267	03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+29	49	1704999318662268211	CMakeFiles/03CreatingThreads.dir/03CreatingThreads_autogen/mocs_compilation.cpp.o	965f9611408fe4f8
+29	2218	1704999320830172925	CMakeFiles/03CreatingThreads.dir/main.cpp.o	5f90e8b00d7e648f
+0	29	1704999318638269267	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+2219	2440	1704999321050163253	03CreatingThreads	dd229d0001baf68f
+0	29	1704999318638269267	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+0	29	1704999318638269267	03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+13	593	1704999462269317414	03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+13	593	1704999462269317414	03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+13	593	1704999462269317414	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+13	593	1704999462269317414	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+593	8505	1704999470189509850	CMakeFiles/03CreatingThreads.dir/main.cpp.o	5f90e8b00d7e648f
+593	8533	1704999470205510231	CMakeFiles/03CreatingThreads.dir/03CreatingThreads_autogen/mocs_compilation.cpp.o	965f9611408fe4f8
+594	8534	1704999470213510421	CMakeFiles/03CreatingThreads.dir/test.cpp.o	ad35b06e78394d02
+8534	10563	1704999472249558657	03CreatingThreads	d95468bd4cd592d0
+79	320	1704999509618357614	03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+79	320	1704999509618357614	03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+79	320	1704999509618357614	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/timestamp	89e47073ba71c9a8
+79	320	1704999509618357614	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-03CreatingThreads-Desktop_Qt_6_6_1_GCC_64bit-Debug/03CreatingThreads_autogen/mocs_compilation.cpp	89e47073ba71c9a8
+323	5734	1704999515030460153	CMakeFiles/03CreatingThreads.dir/main.cpp.o	5f90e8b00d7e648f
+5734	5997	1704999515294465060	03CreatingThreads	d95468bd4cd592d0
