@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-69d894cd333a22bfd48e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04InheritingQThread",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04InheritingQThread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04InheritingQThread-Debug-88ce841761b3e5117168.json",
+					"name" : "04InheritingQThread",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04InheritingQThread_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04InheritingQThread_autogen-Debug-228fa754ef98daa00beb.json",
+					"name" : "04InheritingQThread_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04InheritingQThread_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04InheritingQThread_autogen_timestamp_deps-Debug-6ccd3bb377f94d43b5c7.json",
+					"name" : "04InheritingQThread_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/04InheritingQThread"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

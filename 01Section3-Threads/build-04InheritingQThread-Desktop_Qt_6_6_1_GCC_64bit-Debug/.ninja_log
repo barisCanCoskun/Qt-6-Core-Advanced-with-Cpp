@@ -1,0 +1,22 @@
+# ninja log v5
+0	737	1705388131187725849	04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+0	737	1705388131187725849	04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+0	737	1705388131187725849	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+0	737	1705388131187725849	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+737	7802	1705388138255735071	CMakeFiles/04InheritingQThread.dir/main.cpp.o	f0ada2f46359ce84
+737	7804	1705388138255735071	CMakeFiles/04InheritingQThread.dir/04InheritingQThread_autogen/mocs_compilation.cpp.o	7dc4d528d28acc77
+738	7804	1705388138255735071	CMakeFiles/04InheritingQThread.dir/test.cpp.o	afe028fd531855c4
+738	7805	1705388138255735071	CMakeFiles/04InheritingQThread.dir/worker.cpp.o	26599d31ed8f8bb4
+7805	9868	1705388140315737767	04InheritingQThread	842ad4b1edd0cc26
+3	19	1705388483645203340	04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+3	19	1705388483645203340	04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+3	19	1705388483645203340	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+3	19	1705388483645203340	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+20	2604	1705388486229088197	CMakeFiles/04InheritingQThread.dir/test.cpp.o	afe028fd531855c4
+2604	2869	1705388486493075171	04InheritingQThread	842ad4b1edd0cc26
+4	61	1705388651323013978	04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+4	61	1705388651323013978	04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+4	61	1705388651323013978	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/timestamp	c0e7301ab07c5dab
+4	61	1705388651323013978	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-04InheritingQThread-Desktop_Qt_6_6_1_GCC_64bit-Debug/04InheritingQThread_autogen/mocs_compilation.cpp	c0e7301ab07c5dab
+64	3758	1705388655023000659	CMakeFiles/04InheritingQThread.dir/test.cpp.o	afe028fd531855c4
+3759	4056	1705388655318999589	04InheritingQThread	842ad4b1edd0cc26
