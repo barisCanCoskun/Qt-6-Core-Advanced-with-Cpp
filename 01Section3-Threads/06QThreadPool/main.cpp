@@ -32,6 +32,7 @@ int main(int argc, char *argv[])
 
     for(int i{}; i < 100; ++i){
         Counter *c = new Counter();
+        // c->setnum(i);
         c->setAutoDelete(true);
         // it should be set by default, but make sure it is set to true
         // just in case Qt decides to change their code base.

@@ -1,51 +1,23 @@
 #ifndef COUNTER_H
 #define COUNTER_H
 
-#include<QObject>
-#include<QDebug>
 #include<QRunnable>
 #include<QThread>
-#include<QRandomGenerator>
+#include<QDebug>
+#include<QMutex>
 
 class Counter : public QRunnable
 {
-    int m_num;
 public:
-    Counter();
-    void setnum(int num);
+    Counter(QMutex *mutexPtr, int *valuePtr);
 
     // QRunnable interface
 public:
     void run();
+
+private:
+    QMutex *m_mutexPtr;
+    int *m_valuePtr;
 };
 
 #endif // COUNTER_H
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
