@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-edf824ddabf81412b81d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "06QThreadPool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "06QThreadPool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06QThreadPool-Debug-241f92c9868e5c092af8.json",
+					"name" : "06QThreadPool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06QThreadPool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06QThreadPool_autogen-Debug-7ea48d1c9579839534ba.json",
+					"name" : "06QThreadPool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06QThreadPool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06QThreadPool_autogen_timestamp_deps-Debug-90801932502ffaecbf6c.json",
+					"name" : "06QThreadPool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-06QThreadPool-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/06QThreadPool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
