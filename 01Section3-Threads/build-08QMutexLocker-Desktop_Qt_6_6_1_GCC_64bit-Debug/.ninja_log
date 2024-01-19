@@ -1,0 +1,9 @@
+# ninja log v5
+0	39	1705650327242477360	08QMutexLocker_autogen/timestamp	37f2749b0e6a6e0f
+0	39	1705650327242477360	08QMutexLocker_autogen/mocs_compilation.cpp	37f2749b0e6a6e0f
+0	39	1705650327242477360	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-08QMutexLocker-Desktop_Qt_6_6_1_GCC_64bit-Debug/08QMutexLocker_autogen/timestamp	37f2749b0e6a6e0f
+0	39	1705650327242477360	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-08QMutexLocker-Desktop_Qt_6_6_1_GCC_64bit-Debug/08QMutexLocker_autogen/mocs_compilation.cpp	37f2749b0e6a6e0f
+40	72	1705650327282477279	CMakeFiles/08QMutexLocker.dir/08QMutexLocker_autogen/mocs_compilation.cpp.o	3205f7943564d82b
+41	4926	1705650332134467414	CMakeFiles/08QMutexLocker.dir/counter.cpp.o	d8c13905778f985a
+40	5041	1705650332250467179	CMakeFiles/08QMutexLocker.dir/main.cpp.o	60f3593506d66ca4
+5041	5498	1705650332702466263	08QMutexLocker	74f3ef2e0f0bc4d6

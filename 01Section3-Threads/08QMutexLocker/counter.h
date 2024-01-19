@@ -5,6 +5,7 @@
 #include<QThread>
 #include<QDebug>
 #include<QMutex>
+#include<QMutexLocker>
 
 class Counter : public QRunnable
 {
@@ -21,6 +22,11 @@ private:
 };
 
 #endif // COUNTER_H
+
+
+
+
+
 
 
 
