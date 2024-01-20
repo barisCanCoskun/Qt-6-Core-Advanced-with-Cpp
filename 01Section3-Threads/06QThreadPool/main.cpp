@@ -11,7 +11,8 @@
  * We would take work in the form of a QRunnable and send it to the
  * thread pool, who would put it randomly on a thread, do the work and then it's done.
  * If we used multiple inheritance, we could get a signal and slot back.
- * QRunnable is not a QObject.
+ *
+ * QRunnable is not a QObject!!!
  */
 
 #include <QCoreApplication>
