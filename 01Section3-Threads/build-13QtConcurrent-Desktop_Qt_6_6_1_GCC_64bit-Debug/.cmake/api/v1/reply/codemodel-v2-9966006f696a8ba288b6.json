@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-50c9dd39853ab1d57c75.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "13QtConcurrent",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "13QtConcurrent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13QtConcurrent-Debug-afc27e8a72c374f9c2fb.json",
+					"name" : "13QtConcurrent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13QtConcurrent_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13QtConcurrent_autogen-Debug-ac5a8e662680ba8c7ce0.json",
+					"name" : "13QtConcurrent_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "13QtConcurrent_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-13QtConcurrent_autogen_timestamp_deps-Debug-227ce7ec3e66a54c52c3.json",
+					"name" : "13QtConcurrent_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-13QtConcurrent-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/13QtConcurrent"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

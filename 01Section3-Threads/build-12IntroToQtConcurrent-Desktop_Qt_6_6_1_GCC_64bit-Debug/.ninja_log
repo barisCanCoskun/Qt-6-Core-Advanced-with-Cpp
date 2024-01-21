@@ -1,0 +1,13 @@
+# ninja log v5
+1	206	1705858138720031918	build.ninja	8d0631fb06fc1695
+30	61	1705858137636031779	CMakeFiles/12IntroToQtConcurrent.dir/12IntroToQtConcurrent_autogen/mocs_compilation.cpp.o	a4278d5107d6bfd8
+1	29	1705858137600031774	12IntroToQtConcurrent_autogen/timestamp	500cd8e148150a36
+1	29	1705858137600031774	12IntroToQtConcurrent_autogen/mocs_compilation.cpp	500cd8e148150a36
+1	29	1705858137600031774	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-12IntroToQtConcurrent-Desktop_Qt_6_6_1_GCC_64bit-Debug/12IntroToQtConcurrent_autogen/mocs_compilation.cpp	500cd8e148150a36
+1	29	1705858137600031774	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-12IntroToQtConcurrent-Desktop_Qt_6_6_1_GCC_64bit-Debug/12IntroToQtConcurrent_autogen/timestamp	500cd8e148150a36
+1	28	1705858562043799616	12IntroToQtConcurrent_autogen/timestamp	500cd8e148150a36
+1	28	1705858562043799616	12IntroToQtConcurrent_autogen/mocs_compilation.cpp	500cd8e148150a36
+1	28	1705858562043799616	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-12IntroToQtConcurrent-Desktop_Qt_6_6_1_GCC_64bit-Debug/12IntroToQtConcurrent_autogen/timestamp	500cd8e148150a36
+1	28	1705858562043799616	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-12IntroToQtConcurrent-Desktop_Qt_6_6_1_GCC_64bit-Debug/12IntroToQtConcurrent_autogen/mocs_compilation.cpp	500cd8e148150a36
+29	10491	1705858572487788420	CMakeFiles/12IntroToQtConcurrent.dir/main.cpp.o	598e4ffd65bd5dfd
+10518	11083	1705858573095787763	12IntroToQtConcurrent	afc3564c3fde205b
