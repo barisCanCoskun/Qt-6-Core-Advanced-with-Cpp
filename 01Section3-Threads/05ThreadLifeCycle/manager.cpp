@@ -7,7 +7,8 @@ Manager::Manager(QObject *parent)
         QThread *thread = new QThread(this);
         // Qt's automatic mem management called the parent child relationship
         thread->setObjectName("Thread " + QString::number(i));
-        qInfo() << "Created:" << thread->objectName();
+        // qInfo() << "Created:" << thread->objectName();
+        qInfo() << "Created:" << thread;
         connect(thread, &QThread::started, this, &Manager::started);
         connect(thread, &QThread::finished, this, &Manager::finished);
         threads.append(thread);
@@ -69,3 +70,4 @@ void Manager::finished()
 
 
 
+*

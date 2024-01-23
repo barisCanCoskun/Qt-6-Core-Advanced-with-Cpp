@@ -1,0 +1,11 @@
+# ninja log v5
+9716	10253	1706044509550743525	20ThreadedExample	be18715230ea47ed
+53	13806	1706044189506690202	CMakeFiles/20ThreadedExample.dir/manager.cpp.o	c9a065007d49f8b0
+8	45	1706044499350740902	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-20ThreadedExample-Desktop_Qt_6_6_1_GCC_64bit-Debug/20ThreadedExample_autogen/mocs_compilation.cpp	99068d1720e9bdde
+49	9715	1706044509014743386	CMakeFiles/20ThreadedExample.dir/main.cpp.o	2f47c27f4436f3b7
+8	45	1706044499350740902	20ThreadedExample_autogen/mocs_compilation.cpp	99068d1720e9bdde
+2	161	1706039634068634945	build.ninja	47ae2a712fd67c83
+1662	12315	1706042570500868562	CMakeFiles/20ThreadedExample.dir/20ThreadedExample_autogen/mocs_compilation.cpp.o	5a093cd4b74db795
+8	45	1706044499350740902	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-20ThreadedExample-Desktop_Qt_6_6_1_GCC_64bit-Debug/20ThreadedExample_autogen/timestamp	99068d1720e9bdde
+8	45	1706044499350740902	20ThreadedExample_autogen/timestamp	99068d1720e9bdde
+29	4136	1706042043882574708	CMakeFiles/20ThreadedExample.dir/worker.cpp.o	e259aa39e31d0a64
