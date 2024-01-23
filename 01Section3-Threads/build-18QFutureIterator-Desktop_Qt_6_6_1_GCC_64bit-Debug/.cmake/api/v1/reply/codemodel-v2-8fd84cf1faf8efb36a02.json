@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aa0af0c1f8e8a41c10de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "18QFutureIterator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "18QFutureIterator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18QFutureIterator-Debug-4e44760006f1e7c466b0.json",
+					"name" : "18QFutureIterator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "18QFutureIterator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18QFutureIterator_autogen-Debug-a515e0c071acac08dd1f.json",
+					"name" : "18QFutureIterator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "18QFutureIterator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-18QFutureIterator_autogen_timestamp_deps-Debug-f7ff859e3b25802da09c.json",
+					"name" : "18QFutureIterator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/build-18QFutureIterator-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/18QFutureIterator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
