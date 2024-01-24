@@ -364,7 +364,6 @@
  mdp:/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h
 /home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/20ThreadedExample/manager.cpp
 /home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/20ThreadedExample/main.cpp
-/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/20ThreadedExample/worker.cpp
 /home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/20ThreadedExample/manager.h
  mmc:Q_OBJECT
  mdp:/home/baris/Qt/6.6.1/gcc_64/include/QtConcurrent/QtConcurrent
@@ -1018,3 +1017,4 @@
  mdp:/usr/lib/gcc/x86_64-linux-gnu/11/include/xsaveoptintrin.h
  mdp:/usr/lib/gcc/x86_64-linux-gnu/11/include/xsavesintrin.h
  mdp:/usr/lib/gcc/x86_64-linux-gnu/11/include/xtestintrin.h
+/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/01Section3-Threads/20ThreadedExample/worker.cpp
