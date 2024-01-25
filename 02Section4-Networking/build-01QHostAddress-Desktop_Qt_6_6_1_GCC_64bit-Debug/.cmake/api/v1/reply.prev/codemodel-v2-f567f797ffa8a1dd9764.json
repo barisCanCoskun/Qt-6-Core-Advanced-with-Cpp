@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ca00e0b542f23e091374.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01QHostAddress",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01QHostAddress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QHostAddress-Debug-d9a9bbd557a0c2e983a9.json",
+					"name" : "01QHostAddress",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QHostAddress_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QHostAddress_autogen-Debug-5b01632d2597055ffc1e.json",
+					"name" : "01QHostAddress_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01QHostAddress_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01QHostAddress_autogen_timestamp_deps-Debug-a17805d79c6cf1ff13fa.json",
+					"name" : "01QHostAddress_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-01QHostAddress-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/01QHostAddress"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
