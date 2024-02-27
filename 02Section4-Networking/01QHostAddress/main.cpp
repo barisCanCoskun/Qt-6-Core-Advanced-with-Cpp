@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
 
     QList<QHostAddress> list = QNetworkInterface::allAddresses();
-    for(int i{}; i < list.size(); ++i){
+    for(int i{}; i < list.size(); ++i){  // list.count()... same thing
         QHostAddress address{list.at(i)};
         qInfo() << address.toString();
 

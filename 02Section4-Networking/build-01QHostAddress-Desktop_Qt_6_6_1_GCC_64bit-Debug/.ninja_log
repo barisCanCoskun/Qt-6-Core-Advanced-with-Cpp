@@ -73,3 +73,9 @@
 3	31	1706209287689051862	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-01QHostAddress-Desktop_Qt_6_6_1_GCC_64bit-Debug/01QHostAddress_autogen/mocs_compilation.cpp	a872870db6783429
 31	3201	1706209290857044376	CMakeFiles/01QHostAddress.dir/main.cpp.o	a0c105478382424c
 3202	3532	1706209291185043598	01QHostAddress	ba2511d5f8a8915c
+35	295	1708872267312407303	01QHostAddress_autogen/timestamp	a872870db6783429
+35	295	1708872267312407303	01QHostAddress_autogen/mocs_compilation.cpp	a872870db6783429
+35	295	1708872267312407303	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-01QHostAddress-Desktop_Qt_6_6_1_GCC_64bit-Debug/01QHostAddress_autogen/timestamp	a872870db6783429
+35	295	1708872267312407303	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-01QHostAddress-Desktop_Qt_6_6_1_GCC_64bit-Debug/01QHostAddress_autogen/mocs_compilation.cpp	a872870db6783429
+296	3974	1708872270988355929	CMakeFiles/01QHostAddress.dir/main.cpp.o	a0c105478382424c
+3974	5229	1708872272240338498	01QHostAddress	ba2511d5f8a8915c

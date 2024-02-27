@@ -1,0 +1,11 @@
+# ninja log v5
+618	9761	1709010524630989334	CMakeFiles/03UDPChatExample.dir/main.cpp.o	973594e658195624
+30	2298	1709001267443440529	CMakeFiles/03UDPChatExample.dir/commandline.cpp.o	dd8185f343df2091
+14	618	1709010515487044956	03UDPChatExample_autogen/timestamp	7ed6fdefc6e88d8a
+14	618	1709010515487044956	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-03UDPChatExample-Desktop_Qt_6_6_1_GCC_64bit-Debug/03UDPChatExample_autogen/mocs_compilation.cpp	7ed6fdefc6e88d8a
+9761	10056	1709010524926987555	03UDPChatExample	b818ec913a92a120
+0	182	1708927792759442017	build.ninja	8bf19a8dd48fb8f3
+619	5417	1709010520287015584	CMakeFiles/03UDPChatExample.dir/03UDPChatExample_autogen/mocs_compilation.cpp.o	a04fd094e6d60f94
+14	618	1709010515487044956	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-03UDPChatExample-Desktop_Qt_6_6_1_GCC_64bit-Debug/03UDPChatExample_autogen/timestamp	7ed6fdefc6e88d8a
+14	618	1709010515487044956	03UDPChatExample_autogen/mocs_compilation.cpp	7ed6fdefc6e88d8a
+619	5355	1709010520227015949	CMakeFiles/03UDPChatExample.dir/chat.cpp.o	52d5ce88bb8874c2

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-19bda9a39243fd7f5b63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02QUdpSocket",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02QUdpSocket::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02QUdpSocket-Debug-da353d4a8f57f5658712.json",
+					"name" : "02QUdpSocket",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02QUdpSocket_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02QUdpSocket_autogen-Debug-880893c88188066c2ac8.json",
+					"name" : "02QUdpSocket_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02QUdpSocket_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02QUdpSocket_autogen_timestamp_deps-Debug-50d314f8120f27a2a7d9.json",
+					"name" : "02QUdpSocket_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-02QUdpSocket-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/02QUdpSocket"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
