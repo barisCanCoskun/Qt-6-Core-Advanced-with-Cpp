@@ -13,7 +13,7 @@
 #include <QHostAddress>
 #include <QNetworkInterface>
 #include <QAbstractSocket>
-
+#include <QMetaEnum>
 
 int main(int argc, char *argv[])
 {
@@ -30,6 +30,10 @@ int main(int argc, char *argv[])
         // Send to many
         qInfo() << "\tMulticast:" << address.isMulticast();
 
+        // can be written this way:
+        // QMetaEnum metaEnum{QMetaEnum::fromType<QAbstractSocket::NetworkLayerProtocol>()};
+        // qInfo() << "\tProtocol:" << metaEnum.valueToKey(address.protocol());
+
         switch (address.protocol()) {
             case QAbstractSocket::IPv4Protocol:
                 qInfo() << "\tProtocol: IPv4";
@@ -43,11 +47,9 @@ int main(int argc, char *argv[])
             case QAbstractSocket::UnknownNetworkLayerProtocol:
                 qInfo() << "\tProtocol: Unknown";
                 break;
-            }
+        }
+
     }
-
-
-
     return a.exec();
 }
 

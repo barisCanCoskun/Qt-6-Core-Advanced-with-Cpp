@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4058d102c23b9f183fb4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04QTcpSocket",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04QTcpSocket::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QTcpSocket-Debug-cc38e4976b31c9af7c89.json",
+					"name" : "04QTcpSocket",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04QTcpSocket_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QTcpSocket_autogen-Debug-80b2a13b52ea77524e22.json",
+					"name" : "04QTcpSocket_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04QTcpSocket_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04QTcpSocket_autogen_timestamp_deps-Debug-bbe92f5f079eca60ec4e.json",
+					"name" : "04QTcpSocket_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-04QTcpSocket-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/04QTcpSocket"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
