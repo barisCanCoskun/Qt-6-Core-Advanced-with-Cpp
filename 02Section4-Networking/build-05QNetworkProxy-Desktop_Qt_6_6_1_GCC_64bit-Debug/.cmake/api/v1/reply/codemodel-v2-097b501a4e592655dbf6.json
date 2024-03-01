@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-61042b84620c8bd7a532.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05QNetworkProxy",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05QNetworkProxy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05QNetworkProxy-Debug-7a354e1b793d6411c13a.json",
+					"name" : "05QNetworkProxy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05QNetworkProxy_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05QNetworkProxy_autogen-Debug-7a774977600ade8ad8ec.json",
+					"name" : "05QNetworkProxy_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05QNetworkProxy_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05QNetworkProxy_autogen_timestamp_deps-Debug-338747bdf80f9286a5db.json",
+					"name" : "05QNetworkProxy_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-05QNetworkProxy-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/05QNetworkProxy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
