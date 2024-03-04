@@ -1,0 +1,13 @@
+# ninja log v5
+1	27	1709563634161991117	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-08SynchronousUDP-Desktop_Qt_6_6_1_GCC_64bit-Debug/08SynchronousUDP_autogen/timestamp	b9e811b043fe580c
+0	189	1709563635409940676	build.ninja	fbf8db206c0f4ca4
+1	27	1709563634161991117	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-08SynchronousUDP-Desktop_Qt_6_6_1_GCC_64bit-Debug/08SynchronousUDP_autogen/mocs_compilation.cpp	b9e811b043fe580c
+27	51	1709563634185990145	CMakeFiles/08SynchronousUDP.dir/08SynchronousUDP_autogen/mocs_compilation.cpp.o	491f8a183ce4c6
+1	27	1709563634161991117	08SynchronousUDP_autogen/mocs_compilation.cpp	b9e811b043fe580c
+1	27	1709563634161991117	08SynchronousUDP_autogen/timestamp	b9e811b043fe580c
+1	42	1709563751881874091	08SynchronousUDP_autogen/timestamp	b9e811b043fe580c
+1	42	1709563751881874091	08SynchronousUDP_autogen/mocs_compilation.cpp	b9e811b043fe580c
+1	42	1709563751881874091	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-08SynchronousUDP-Desktop_Qt_6_6_1_GCC_64bit-Debug/08SynchronousUDP_autogen/timestamp	b9e811b043fe580c
+1	42	1709563751881874091	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-08SynchronousUDP-Desktop_Qt_6_6_1_GCC_64bit-Debug/08SynchronousUDP_autogen/mocs_compilation.cpp	b9e811b043fe580c
+42	5132	1709563756969723165	CMakeFiles/08SynchronousUDP.dir/main.cpp.o	7a83eb1c6d4119ba
+5134	5555	1709563757385710924	08SynchronousUDP	5f25b7ef0c75a75e

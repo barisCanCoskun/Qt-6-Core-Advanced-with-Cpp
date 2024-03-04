@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-748c6906f64b5fd046a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07SynchronousTCP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07SynchronousTCP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07SynchronousTCP-Debug-7d2d173a13f534a11a59.json",
+					"name" : "07SynchronousTCP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07SynchronousTCP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07SynchronousTCP_autogen-Debug-2ec74761c52aece63774.json",
+					"name" : "07SynchronousTCP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07SynchronousTCP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07SynchronousTCP_autogen_timestamp_deps-Debug-a3b4b774939d1ccaca27.json",
+					"name" : "07SynchronousTCP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-07SynchronousTCP-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/07SynchronousTCP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
