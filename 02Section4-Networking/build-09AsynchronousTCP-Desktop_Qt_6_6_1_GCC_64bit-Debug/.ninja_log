@@ -1,0 +1,14 @@
+# ninja log v5
+0	659	1709615259835161617	09AsynchronousTCP_autogen/timestamp	31b1cf17e6a76e8d
+0	659	1709615259835161617	09AsynchronousTCP_autogen/mocs_compilation.cpp	31b1cf17e6a76e8d
+0	659	1709615259835161617	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-09AsynchronousTCP-Desktop_Qt_6_6_1_GCC_64bit-Debug/09AsynchronousTCP_autogen/timestamp	31b1cf17e6a76e8d
+5	1239	1709615306226519183	build.ninja	6661f7c234283d95
+0	659	1709615259835161617	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-09AsynchronousTCP-Desktop_Qt_6_6_1_GCC_64bit-Debug/09AsynchronousTCP_autogen/mocs_compilation.cpp	31b1cf17e6a76e8d
+33	714	1709617548202539324	09AsynchronousTCP_autogen/timestamp	31b1cf17e6a76e8d
+33	714	1709617548202539324	09AsynchronousTCP_autogen/mocs_compilation.cpp	31b1cf17e6a76e8d
+33	714	1709617548202539324	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-09AsynchronousTCP-Desktop_Qt_6_6_1_GCC_64bit-Debug/09AsynchronousTCP_autogen/timestamp	31b1cf17e6a76e8d
+33	714	1709617548202539324	/home/baris/barisCan/Udemy/QtCourses/Qt6Core-Advanced/02Section4-Networking/build-09AsynchronousTCP-Desktop_Qt_6_6_1_GCC_64bit-Debug/09AsynchronousTCP_autogen/mocs_compilation.cpp	31b1cf17e6a76e8d
+715	9399	1709617556878514173	CMakeFiles/09AsynchronousTCP.dir/main.cpp.o	3afa3b790097b250
+715	9431	1709617556890514138	CMakeFiles/09AsynchronousTCP.dir/client.cpp.o	30f626efcbecb59e
+714	9454	1709617556946513974	CMakeFiles/09AsynchronousTCP.dir/09AsynchronousTCP_autogen/mocs_compilation.cpp.o	17e5e5033b03e097
+9454	10433	1709617557922511144	09AsynchronousTCP	6aac0b0bbabb90f2
